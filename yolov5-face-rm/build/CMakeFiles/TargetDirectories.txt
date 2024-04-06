@@ -1,0 +1,3 @@
+/home/zxw/Desktop/yolov5-face-rm/build/CMakeFiles/onnx_inference.dir
+/home/zxw/Desktop/yolov5-face-rm/build/CMakeFiles/edit_cache.dir
+/home/zxw/Desktop/yolov5-face-rm/build/CMakeFiles/rebuild_cache.dir
